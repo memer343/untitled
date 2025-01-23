@@ -1,15 +1,14 @@
- 
-
+   
+**THIS IS A GAME**
 
 > Open this page at [https://memer343.github.io/untitled/](https://memer343.github.io/untitled/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
+ 
+## this is a game
+This repository can be editted as an **game** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
 * click on **New Project**
-* click on **Extensions** under the gearwheel menu
+* click on **games** under the gearwheel menu
 * search for **https://github.com/memer343/untitled** and import
 
 ## Edit this project ![Build status badge](https://github.com/memer343/untitled/workflows/MakeCode/badge.svg)
