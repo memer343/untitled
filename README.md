@@ -1,9 +1,9 @@
    
-**THIS IS A GAME**
+**THIS IS A GAME **
 
 > Open this page at [https://memer343.github.io/untitled/](https://memer343.github.io/untitled/)
  
-## this is a game
+## add on to it idc
 This repository can be editted as an **game** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
