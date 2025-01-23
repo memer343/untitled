@@ -10,6 +10,6 @@ controller.menu.onEvent(ControllerButtonEvent.Pressed, function () {
 let mySprite: Sprite = null
 mySprite = Render.getRenderSpriteVariable()
 game.splash("untitled")
-tiles.setCurrentTilemap(tilemap`level1`)
+tiles.setCurrentTilemap(tilemap`level3`)
 scene.cameraFollowSprite(mySprite)
 game.setGameOverScoringType(game.ScoringType.HighScore)
