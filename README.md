@@ -3,7 +3,7 @@
 
 > Open this page at [https://memer343.github.io/untitled/](https://memer343.github.io/untitled/)
  
-## add on to it idc
+## add on to it 
 This repository can be editted as an **game** in MakeCode.
 
 * open [https://arcade.makecode.com/](https://arcade.makecode.com/)
