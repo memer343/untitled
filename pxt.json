@@ -1,5 +1,5 @@
 {
-    "name": "Untitled",
+    "name": "Untitlednewmap",
     "version": "0.0.1",
     "description": "",
     "dependencies": {
@@ -27,5 +27,5 @@
     "supportedTargets": [
         "arcade"
     ],
-    "preferredEditor": "tsprj"
+    "preferredEditor": "blocksprj"
 }
